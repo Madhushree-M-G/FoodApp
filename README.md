@@ -12,19 +12,21 @@ A front-end web application built with React that allows users to search for rec
 
 ## Demo
 
-![Screenshot 2024-11-13 102023](https://github.com/user-attachments/assets/50515de4-6527-4910-ab11-ef6db7eb55a6)
+![Home page](https://github.com/user-attachments/assets/50515de4-6527-4910-ab11-ef6db7eb55a6)
+![Instructions](https://github.com/user-attachments/assets/e1a33e64-b677-4d19-88ea-abf7edd317a8)
 
 
 ## Installation
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/username/food-recipe-app.git
 2. Navigate to the project directory
    cd food-recipe-app
 3.install dependencies
   Obtain an API key from Spoonacular API.
   Create a .env file in the root directory and add your Spoonacular API key:
+4. run the project
+   
 
 ##Project Structure
   src
