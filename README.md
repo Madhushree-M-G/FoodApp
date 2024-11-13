@@ -12,7 +12,8 @@ A front-end web application built with React that allows users to search for rec
 
 ## Demo
 
-Add screenshots or a link to a live demo if available.
+![Screenshot 2024-11-13 102023](https://github.com/user-attachments/assets/50515de4-6527-4910-ab11-ef6db7eb55a6)
+
 
 ## Installation
 
