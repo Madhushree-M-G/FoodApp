@@ -28,7 +28,7 @@ A front-end web application built with React that allows users to search for rec
 4. run the project
    
 
-##Project Structure
+## Project Structure
   src
   ├── components     # Reusable components like RecipeList, RecipeCard, SearchBar, etc.
   ├── pages          # Pages like Home, RecipeDetail
@@ -36,7 +36,7 @@ A front-end web application built with React that allows users to search for rec
   ├── styles         # CSS or styled-components for styling
   └── App.js         # Main app component
   
-##API Integration
+## API Integration
   This project uses the Spoonacular API to fetch recipes and detailed information about each dish.
   
   Search Recipes: Fetches a list of recipes based on the user's search term.
@@ -44,6 +44,6 @@ A front-end web application built with React that allows users to search for rec
   Nutritional Information: Fetches nutritional info like price per serving and dietary compatibility.
   To handle API requests, Postman API was used for testing and debugging.
 
-##Acknowledgments
+## Acknowledgments
   Spoonacular API for providing recipe data.
   Postman for testing API requests.
